@@ -17,3 +17,4 @@ uniaxialMaterial SelfCenterFriction  $matTag  $k $us $k1 $beta
 | `beta` | ratio of residual to slip force $\beta=\frac{F_{res}}{F_y}$ |
 
 ![immagine](https://github.com/mrc-tech/OpenSees-SelfCenterFriction/assets/74192712/3b848514-a8dc-4c8b-8d20-ffa5789b86ac)
+Attention! the definition of $\beta$ is different in the figure.
