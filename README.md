@@ -11,7 +11,9 @@ uniaxialMaterial SelfCenterFriction  $matTag  $k $us $k1 $beta
 | parameter | description |
 | --- | --- |
 | `matTag` | integer tag identifying the material |
-| `k` | initial stiffness |
-| `us` | slip displacement |
-| `k1` | loading slip stiffness |
+| `k` | initial stiffness $k$ |
+| `us` | slip displacement $u_s$ |
+| `k1` | loading slip stiffness $k_1$ |
 | `beta` | ratio of residual to slip force $\beta=\frac{F_{res}}{F_y}$ |
+
+![immagine](https://github.com/mrc-tech/OpenSees-SelfCenterFriction/assets/74192712/3b848514-a8dc-4c8b-8d20-ffa5789b86ac)
